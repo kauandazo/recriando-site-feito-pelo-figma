@@ -1,0 +1,187 @@
+.container{
+    width: 100%;
+    height: 100%;
+    background-color: rgb(255, 255, 255);
+    margin: 0px;
+    
+}
+.esboço{
+    width: 1272px;
+    height: 70px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+}
+.box1{
+    width: 200px;
+    height: 45px;
+    background-color: rgb(255, 255, 255);
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+.box2{
+    width: 100px;
+    height: 45px;
+    background-color: white;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+.box3{
+    width: 100px;
+    height: 45px;
+    background-color: white;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+.box4{
+    width: 100px;
+    height: 45px;
+    background-color: white;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+.box5{
+    width: 100px;
+    height: 45px;
+    background-color: white;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+.box6{
+    width: 300px;
+    height: 45px;
+    background-color: white;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+.box7{
+    width: 150px;
+    height: 45px;
+    background-color: white;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+.box8{
+    width: 110px;
+    height: 45px;
+    background-color: #8E2424;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    border-radius: 10px;
+}
+.txts{
+    width: 1272px;
+    height: 300px;
+    background-color: rgb(255, 255, 255);
+    
+}
+.esboço2{
+    width: 1272px;
+    height: 300px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+}
+.numero1{
+    width: 318px;
+    height: 300px;
+    background-color: #ffffff;
+}
+.numero2{
+    width: 318px;
+    height: 300px;
+    background-color: #ffffff;
+}
+.numero3{
+    width: 318px;
+    height: 300px;
+    background-color: #ffffff;
+}
+.numero4{
+    width: 318px;
+    height: 300px;
+    background-color: #ffffff;
+}
+.esboço3{
+    width: 100%;
+    height: auto; 
+    background-color: rgb(255, 255, 255);
+}
+.vagas{
+    width: 100px;
+    height: 25px;
+    background-color: rgba(142, 36, 36, 0.05);
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    border-radius: 15px;
+    
+}
+.espaço{
+    width: 1272px;
+    height: 25px;
+    background-color: white;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.img{
+    width: 1272px;
+    height: 400px;
+    background-color: #8E2424;
+}
+.Design{
+    width: 100%;
+    height: 700px;
+    background-color: #ffffff;
+   position:absolute;
+   left: 300px;
+}
+.Design2{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.solid1{
+    width: 400px;
+    height: 100px;
+    border: solid #667085;
+    border-radius: 15px;
+
+    background-color: rgb(255, 255, 255);
+}
+.espaçamento{
+    width: 100%;
+    height: 25px;
+}
+.solid2{
+        width: 400px;
+        height: 100px;
+        border: solid #667085;
+        border-radius: 15px;
+    
+        background-color: rgb(255, 255, 255);
+}
+.branco{
+    color: white;
+}
+.cinza{
+    color: #667085;
+}
+.vinho{
+    color: #8E2424;
+   
+}
+img{
+    width: 100%;
+    height: 100%;
+}
